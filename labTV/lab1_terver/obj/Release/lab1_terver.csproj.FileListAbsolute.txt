@@ -1,0 +1,10 @@
+C:\Users\Дима\lab1_terver\lab1_terver\bin\Release\lab1_terver.exe.config
+C:\Users\Дима\lab1_terver\lab1_terver\bin\Release\lab1_terver.exe
+C:\Users\Дима\lab1_terver\lab1_terver\bin\Release\lab1_terver.pdb
+C:\Users\Дима\lab1_terver\lab1_terver\obj\Release\lab1_terver.csprojAssemblyReference.cache
+C:\Users\Дима\lab1_terver\lab1_terver\obj\Release\lab1_terver.Form1.resources
+C:\Users\Дима\lab1_terver\lab1_terver\obj\Release\lab1_terver.Properties.Resources.resources
+C:\Users\Дима\lab1_terver\lab1_terver\obj\Release\lab1_terver.csproj.GenerateResource.cache
+C:\Users\Дима\lab1_terver\lab1_terver\obj\Release\lab1_terver.csproj.CoreCompileInputs.cache
+C:\Users\Дима\lab1_terver\lab1_terver\obj\Release\lab1_terver.exe
+C:\Users\Дима\lab1_terver\lab1_terver\obj\Release\lab1_terver.pdb

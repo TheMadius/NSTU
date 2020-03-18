@@ -1,0 +1,10 @@
+C:\Users\Дима\source\repos\lab_2_terVer\lab_2_terVer\bin\Debug\lab_2_terVer.exe.config
+C:\Users\Дима\source\repos\lab_2_terVer\lab_2_terVer\bin\Debug\lab_2_terVer.exe
+C:\Users\Дима\source\repos\lab_2_terVer\lab_2_terVer\bin\Debug\lab_2_terVer.pdb
+C:\Users\Дима\source\repos\lab_2_terVer\lab_2_terVer\obj\Debug\lab_2_terVer.csprojAssemblyReference.cache
+C:\Users\Дима\source\repos\lab_2_terVer\lab_2_terVer\obj\Debug\lab_2_terVer.Form1.resources
+C:\Users\Дима\source\repos\lab_2_terVer\lab_2_terVer\obj\Debug\lab_2_terVer.Properties.Resources.resources
+C:\Users\Дима\source\repos\lab_2_terVer\lab_2_terVer\obj\Debug\lab_2_terVer.csproj.GenerateResource.cache
+C:\Users\Дима\source\repos\lab_2_terVer\lab_2_terVer\obj\Debug\lab_2_terVer.csproj.CoreCompileInputs.cache
+C:\Users\Дима\source\repos\lab_2_terVer\lab_2_terVer\obj\Debug\lab_2_terVer.exe
+C:\Users\Дима\source\repos\lab_2_terVer\lab_2_terVer\obj\Debug\lab_2_terVer.pdb
