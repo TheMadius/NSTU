@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SsessionWriting.Class.Audience" Collapsed="true">
+    <Position X="6.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAQAAAAEAAAAAAAAAAAAAAEAAAAAAAAAA=</HashCode>
+      <FileName>Class\Audience.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SsessionWriting.Class.Consultation" Collapsed="true">
+    <Position X="7.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEBAAAAAAAEAAAABAAAAAAAAAAAAAABAAAEBQABAQQ=</HashCode>
+      <FileName>Class\Consultation.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="SsessionWriting.Class.Date" Collapsed="true">
+    <Position X="8.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAIAACEAACAggAAAAQAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>Class\Date.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SsessionWriting.Class.Department" Collapsed="true">
+    <Position X="4.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Class\Department.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SsessionWriting.Class.Direction" Collapsed="true">
+    <Position X="0.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAQAAAAAAAAAAAAQAAAAEAAAAAAABAAAAAgA=</HashCode>
+      <FileName>Class\Directions .cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SsessionWriting.Class.Discipline" Collapsed="true">
+    <Position X="3.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAACAAAAAgAAAAAAAAAAAAAAAAAAAAIA=</HashCode>
+      <FileName>Class\Discipline.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SsessionWriting.Class.Group" Collapsed="true">
+    <Position X="3" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgAIGAAACCAAAIAAAAAAAAAAAQABAA=</HashCode>
+      <FileName>Class\Group.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SsessionWriting.Class.Session" Collapsed="true">
+    <Position X="5.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAEAAAAAAAIAAAEAAIAAAACAAAAAAACAAAAAgAAA=</HashCode>
+      <FileName>Class\Session.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SsessionWriting.Class.DSyllabus" Collapsed="true">
+    <Position X="0.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIAAAACAAAAAAAAAAAAAAAAAAACAAAAA=</HashCode>
+      <FileName>Class\Syllabus.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SsessionWriting.Class.Teacher" Collapsed="true">
+    <Position X="5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAABAAIAAAAAQAAAQEAAAAAAAAAAACAAAAAg=</HashCode>
+      <FileName>Class\Teacher.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SsessionWriting.Class.Time" Collapsed="true">
+    <Position X="10.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEABAAAAEQACAAgACAAAAAAIAAAADAAAAAyI=</HashCode>
+      <FileName>Class\Time.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SsessionWriting.Class.Exam" Collapsed="true">
+    <Position X="9.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEBAAAAAAAEAAAABAAAAAAAAAAAAAABAAAEBQABAQQ=</HashCode>
+      <FileName>Class\Exam.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="SsessionWriting.Class.ILesson" Collapsed="true">
+    <Position X="8.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAEAAAAAAAAAAAAAAAAAAABAAAEBAAAAQA=</HashCode>
+      <FileName>Class\ILesson.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Tahoma" Size="8.25" />
+</ClassDiagram>

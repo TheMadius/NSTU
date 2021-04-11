@@ -1,0 +1,11 @@
+C:\Users\Madius\source\repos\LAB4_POINT\LAB4_POINT\bin\Debug\LAB4_POINT.exe.config
+C:\Users\Madius\source\repos\LAB4_POINT\LAB4_POINT\bin\Debug\LAB4_POINT.exe
+C:\Users\Madius\source\repos\LAB4_POINT\LAB4_POINT\bin\Debug\LAB4_POINT.pdb
+C:\Users\Madius\source\repos\LAB4_POINT\LAB4_POINT\obj\Debug\LAB4_POINT.csprojAssemblyReference.cache
+C:\Users\Madius\source\repos\LAB4_POINT\LAB4_POINT\obj\Debug\LAB4_POINT.Form1.resources
+C:\Users\Madius\source\repos\LAB4_POINT\LAB4_POINT\obj\Debug\LAB4_POINT.Properties.Resources.resources
+C:\Users\Madius\source\repos\LAB4_POINT\LAB4_POINT\obj\Debug\LAB4_POINT.csproj.GenerateResource.cache
+C:\Users\Madius\source\repos\LAB4_POINT\LAB4_POINT\obj\Debug\LAB4_POINT.csproj.CoreCompileInputs.cache
+C:\Users\Madius\source\repos\LAB4_POINT\LAB4_POINT\obj\Debug\LAB4_POINT.exe
+C:\Users\Madius\source\repos\LAB4_POINT\LAB4_POINT\obj\Debug\LAB4_POINT.pdb
+C:\Users\Madius\source\repos\LAB4_POINT\LAB4_POINT\obj\Debug\LAB4_POINT.Form2.resources

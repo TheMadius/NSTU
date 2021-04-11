@@ -1,0 +1,101 @@
+﻿  Source.cpp
+C:\Users\Madius\source\repos\labs_TP\4\lab_4\lab_4\Btree.h(212,16): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+C:\Users\Madius\source\repos\labs_TP\4\lab_4\lab_4\Btree.h(208): message : во время компиляции функции-члена класс шаблон "void Btree<int>::pack(void)"
+C:\Users\Madius\source\repos\labs_TP\4\lab_4\lab_4\Source.cpp(74): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Btree<int>::pack(void)"
+C:\Users\Madius\source\repos\labs_TP\4\lab_4\lab_4\Source.cpp(25): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Btree<int>"
+C:\Users\Madius\source\repos\labs_TP\4\lab_4\lab_4\Btree.h(249,28): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+C:\Users\Madius\source\repos\labs_TP\4\lab_4\lab_4\Btree.h(209,26): warning C4101: delNext: неиспользованная локальная переменная
+C:\Users\Madius\source\repos\labs_TP\4\lab_4\lab_4\Btree.h(560,30): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+C:\Users\Madius\source\repos\labs_TP\4\lab_4\lab_4\Btree.h(540): message : во время компиляции функции-члена класс шаблон "void Btree<int>::show(void)"
+C:\Users\Madius\source\repos\labs_TP\4\lab_4\lab_4\Source.cpp(79): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Btree<int>::show(void)"
+C:\Users\Madius\source\repos\labs_TP\4\lab_4\lab_4\Btree.h(692,27): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+C:\Users\Madius\source\repos\labs_TP\4\lab_4\lab_4\Btree.h(681): message : во время компиляции функции-члена класс шаблон "Data<T> Btree<T>::tossing(int,int,Data<T>)"
+          with
+          [
+              T=int
+          ]
+C:\Users\Madius\source\repos\labs_TP\4\lab_4\lab_4\Btree.h(123): message : выполняется компиляция ссылки на экземпляр шаблон функции "Data<T> Btree<T>::tossing(int,int,Data<T>)"
+          with
+          [
+              T=int
+          ]
+C:\Users\Madius\source\repos\labs_TP\4\lab_4\lab_4\Btree.h(86): message : во время компиляции функции-члена класс шаблон "Btree<int>::Btree(const char *,Access,int)"
+C:\Users\Madius\source\repos\labs_TP\4\lab_4\lab_4\Source.cpp(31): message : выполняется компиляция ссылки на экземпляр шаблон функции "Btree<int>::Btree(const char *,Access,int)"
+C:\Users\Madius\source\repos\labs_TP\4\lab_4\lab_4\Btree.h(699,28): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+C:\Users\Madius\source\repos\labs_TP\4\lab_4\lab_4\Btree.h(717,28): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+C:\Users\Madius\source\repos\labs_TP\4\lab_4\lab_4\Btree.h(724,28): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+C:\Users\Madius\source\repos\labs_TP\4\lab_4\lab_4\Btree.h(737,29): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+C:\Users\Madius\source\repos\labs_TP\4\lab_4\lab_4\Btree.h(759,10): warning C4101: count: неиспользованная локальная переменная
+C:\Users\Madius\source\repos\labs_TP\4\lab_4\lab_4\Btree.h(758): message : во время компиляции функции-члена класс шаблон "void Btree<int>::moves(int,int)"
+C:\Users\Madius\source\repos\labs_TP\4\lab_4\lab_4\Btree.h(184): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Btree<int>::moves(int,int)"
+C:\Users\Madius\source\repos\labs_TP\4\lab_4\lab_4\Btree.h(806,11): warning C4101: count: неиспользованная локальная переменная
+C:\Users\Madius\source\repos\labs_TP\4\lab_4\lab_4\Btree.h(805): message : во время компиляции функции-члена класс шаблон "void Btree<int>::movesAll(int,int)"
+C:\Users\Madius\source\repos\labs_TP\4\lab_4\lab_4\Btree.h(191): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Btree<int>::movesAll(int,int)"
+C:\Users\Madius\source\repos\labs_TP\4\lab_4\lab_4\Btree.h(909,27): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+C:\Users\Madius\source\repos\labs_TP\4\lab_4\lab_4\Btree.h(898): message : во время компиляции функции-члена класс шаблон "int Btree<int>::addDataPage(int,Data<T>)"
+          with
+          [
+              T=int
+          ]
+C:\Users\Madius\source\repos\labs_TP\4\lab_4\lab_4\Btree.h(104): message : выполняется компиляция ссылки на экземпляр шаблон функции "int Btree<int>::addDataPage(int,Data<T>)"
+          with
+          [
+              T=int
+          ]
+C:\Users\Madius\source\repos\labs_TP\4\lab_4\lab_4\Btree.h(922,28): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+C:\Users\Madius\source\repos\labs_TP\4\lab_4\lab_4\Btree.h(344,32): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+C:\Users\Madius\source\repos\labs_TP\4\lab_4\lab_4\Btree.h(328): message : во время компиляции функции-члена класс шаблон "void Btree<int>::replaceData(T,T)"
+          with
+          [
+              T=int
+          ]
+C:\Users\Madius\source\repos\labs_TP\4\lab_4\lab_4\Btree.h(154): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Btree<int>::replaceData(T,T)"
+          with
+          [
+              T=int
+          ]
+C:\Users\Madius\source\repos\labs_TP\4\lab_4\lab_4\Btree.h(1014,32): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+C:\Users\Madius\source\repos\labs_TP\4\lab_4\lab_4\Btree.h(1002): message : во время компиляции функции-члена класс шаблон "void Btree<int>::movesDel(int,int)"
+C:\Users\Madius\source\repos\labs_TP\4\lab_4\lab_4\Btree.h(274): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Btree<int>::movesDel(int,int)"
+C:\Users\Madius\source\repos\labs_TP\4\lab_4\lab_4\Btree.h(1020,32): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+C:\Users\Madius\source\repos\labs_TP\4\lab_4\lab_4\Btree.h(1026,33): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+C:\Users\Madius\source\repos\labs_TP\4\lab_4\lab_4\Btree.h(1030,33): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+C:\Users\Madius\source\repos\labs_TP\4\lab_4\lab_4\Btree.h(522,31): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+C:\Users\Madius\source\repos\labs_TP\4\lab_4\lab_4\Btree.h(505): message : во время компиляции функции-члена класс шаблон "int Btree<int>::newPage(int)"
+C:\Users\Madius\source\repos\labs_TP\4\lab_4\lab_4\Btree.h(103): message : выполняется компиляция ссылки на экземпляр шаблон функции "int Btree<int>::newPage(int)"
+C:\Users\Madius\source\repos\labs_TP\4\lab_4\lab_4\Btree.h(1055,34): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+C:\Users\Madius\source\repos\labs_TP\4\lab_4\lab_4\Btree.h(1044): message : во время компиляции функции-члена класс шаблон "void Btree<int>::deleteItem(T)"
+          with
+          [
+              T=int
+          ]
+C:\Users\Madius\source\repos\labs_TP\4\lab_4\lab_4\Btree.h(159): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Btree<int>::deleteItem(T)"
+          with
+          [
+              T=int
+          ]
+C:\Users\Madius\source\repos\labs_TP\4\lab_4\lab_4\Btree.h(1057,31): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+C:\Users\Madius\source\repos\labs_TP\4\lab_4\lab_4\Btree.h(301,33): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+C:\Users\Madius\source\repos\labs_TP\4\lab_4\lab_4\Btree.h(293): message : во время компиляции функции-члена класс шаблон "T Btree<T>::removeBeg(int)"
+          with
+          [
+              T=int
+          ]
+C:\Users\Madius\source\repos\labs_TP\4\lab_4\lab_4\Btree.h(153): message : выполняется компиляция ссылки на экземпляр шаблон функции "T Btree<T>::removeBeg(int)"
+          with
+          [
+              T=int
+          ]
+C:\Users\Madius\source\repos\labs_TP\4\lab_4\lab_4\Btree.h(305,30): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+C:\Users\Madius\source\repos\labs_TP\4\lab_4\lab_4\Btree.h(311,31): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+C:\Users\Madius\source\repos\labs_TP\4\lab_4\lab_4\Btree.h(314,34): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+C:\Users\Madius\source\repos\labs_TP\4\lab_4\lab_4\Btree.h(618,26): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+C:\Users\Madius\source\repos\labs_TP\4\lab_4\lab_4\Btree.h(608): message : во время компиляции функции-члена класс шаблон "int Btree<int>::ptrPort(int,int)"
+C:\Users\Madius\source\repos\labs_TP\4\lab_4\lab_4\Btree.h(762): message : выполняется компиляция ссылки на экземпляр шаблон функции "int Btree<int>::ptrPort(int,int)"
+C:\Users\Madius\source\repos\labs_TP\4\lab_4\lab_4\Btree.h(670): message : во время компиляции функции-члена класс шаблон "void Btree<int>::delPage(int)"
+C:\Users\Madius\source\repos\labs_TP\4\lab_4\lab_4\Btree.h(170): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Btree<int>::delPage(int)"
+C:\Users\Madius\source\repos\labs_TP\4\lab_4\lab_4\Btree.h(501): warning C4715: Btree<int>::findAdjacent: значение возвращается не при всех путях выполнения
+C:\Users\Madius\source\repos\labs_TP\4\lab_4\lab_4\Btree.h(424): warning C4715: Btree<int>::isLeft: значение возвращается не при всех путях выполнения
+C:\Users\Madius\source\repos\labs_TP\4\lab_4\lab_4\Btree.h(989): warning C4715: Btree<int>::backPtr: значение возвращается не при всех путях выполнения
+C:\Users\Madius\source\repos\labs_TP\4\lab_4\lab_4\Btree.h(627): warning C4715: Btree<int>::ptrPort: значение возвращается не при всех путях выполнения
+  lab_4.vcxproj -> C:\Users\Madius\source\repos\labs_TP\4\lab_4\x64\Debug\lab_4.exe

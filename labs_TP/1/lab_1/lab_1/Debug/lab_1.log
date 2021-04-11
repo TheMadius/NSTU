@@ -1,0 +1,105 @@
+﻿  Source.cpp
+C:\Users\Madius\source\repos\labs_TP\1\lab_1\lab_1\virtual_page.h(75,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Madius\source\repos\labs_TP\1\lab_1\lab_1\virtual_page.h(110,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Madius\source\repos\labs_TP\1\lab_1\lab_1\Source.cpp(27,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Madius\source\repos\labs_TP\1\lab_1\lab_1\Source.cpp(43,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Madius\source\repos\labs_TP\1\lab_1\lab_1\virtual_page.h(54,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Madius\source\repos\labs_TP\1\lab_1\lab_1\virtual_page.h(52): message : во время компиляции функции-члена класс шаблон "void virtual_page<int>::vput(long,T)"
+          with
+          [
+              T=int
+          ]
+C:\Users\Madius\source\repos\labs_TP\1\lab_1\lab_1\Source.cpp(65): message : выполняется компиляция ссылки на экземпляр шаблон функции "void virtual_page<int>::vput(long,T)"
+          with
+          [
+              T=int
+          ]
+C:\Users\Madius\source\repos\labs_TP\1\lab_1\lab_1\Source.cpp(63): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "virtual_page<int>"
+C:\Users\Madius\source\repos\labs_TP\1\lab_1\lab_1\virtual_page.h(64,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Madius\source\repos\labs_TP\1\lab_1\lab_1\virtual_page.h(75,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Madius\source\repos\labs_TP\1\lab_1\lab_1\virtual_page.h(90,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Madius\source\repos\labs_TP\1\lab_1\lab_1\virtual_page.h(89): message : во время компиляции функции-члена класс шаблон "T virtual_page<T>::vget(long)"
+          with
+          [
+              T=int
+          ]
+C:\Users\Madius\source\repos\labs_TP\1\lab_1\lab_1\Source.cpp(70): message : выполняется компиляция ссылки на экземпляр шаблон функции "T virtual_page<T>::vget(long)"
+          with
+          [
+              T=int
+          ]
+C:\Users\Madius\source\repos\labs_TP\1\lab_1\lab_1\virtual_page.h(101,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Madius\source\repos\labs_TP\1\lab_1\lab_1\virtual_page.h(110,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Madius\source\repos\labs_TP\1\lab_1\lab_1\buffer.h(195,25): warning C4018: >: несоответствие типов со знаком и без знака
+C:\Users\Madius\source\repos\labs_TP\1\lab_1\lab_1\buffer.h(191): message : во время компиляции функции-члена класс шаблон "void buffer<T>::setBuff(long,T)"
+          with
+          [
+              T=int
+          ]
+C:\Users\Madius\source\repos\labs_TP\1\lab_1\lab_1\virtual_page.h(60): message : выполняется компиляция ссылки на экземпляр шаблон функции "void buffer<T>::setBuff(long,T)"
+          with
+          [
+              T=int
+          ]
+C:\Users\Madius\source\repos\labs_TP\1\lab_1\lab_1\virtual_page.h(30): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "buffer<T>"
+          with
+          [
+              T=int
+          ]
+C:\Users\Madius\source\repos\labs_TP\1\lab_1\lab_1\virtual_page.h(28): message : во время компиляции функции-члена класс шаблон "virtual_page<int>::virtual_page(const char *,long,int)"
+C:\Users\Madius\source\repos\labs_TP\1\lab_1\lab_1\Source.cpp(63): message : выполняется компиляция ссылки на экземпляр шаблон функции "virtual_page<int>::virtual_page(const char *,long,int)"
+C:\Users\Madius\source\repos\labs_TP\1\lab_1\lab_1\buffer.h(211,25): warning C4018: >: несоответствие типов со знаком и без знака
+C:\Users\Madius\source\repos\labs_TP\1\lab_1\lab_1\buffer.h(210): message : во время компиляции функции-члена класс шаблон "void buffer<T>::set(long,T)"
+          with
+          [
+              T=int
+          ]
+C:\Users\Madius\source\repos\labs_TP\1\lab_1\lab_1\virtual_page.h(70): message : выполняется компиляция ссылки на экземпляр шаблон функции "void buffer<T>::set(long,T)"
+          with
+          [
+              T=int
+          ]
+C:\Users\Madius\source\repos\labs_TP\1\lab_1\lab_1\buffer.h(145,25): warning C4018: >: несоответствие типов со знаком и без знака
+C:\Users\Madius\source\repos\labs_TP\1\lab_1\lab_1\buffer.h(141): message : во время компиляции функции-члена класс шаблон "T buffer<T>::getBuff(long)"
+          with
+          [
+              T=int
+          ]
+C:\Users\Madius\source\repos\labs_TP\1\lab_1\lab_1\virtual_page.h(97): message : выполняется компиляция ссылки на экземпляр шаблон функции "T buffer<T>::getBuff(long)"
+          with
+          [
+              T=int
+          ]
+C:\Users\Madius\source\repos\labs_TP\1\lab_1\lab_1\buffer.h(165,25): warning C4018: >: несоответствие типов со знаком и без знака
+C:\Users\Madius\source\repos\labs_TP\1\lab_1\lab_1\buffer.h(164): message : во время компиляции функции-члена класс шаблон "T buffer<T>::get(long)"
+          with
+          [
+              T=int
+          ]
+C:\Users\Madius\source\repos\labs_TP\1\lab_1\lab_1\virtual_page.h(107): message : выполняется компиляция ссылки на экземпляр шаблон функции "T buffer<T>::get(long)"
+          with
+          [
+              T=int
+          ]
+C:\Users\Madius\source\repos\labs_TP\1\lab_1\lab_1\buffer.h(250,24): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+C:\Users\Madius\source\repos\labs_TP\1\lab_1\lab_1\buffer.h(245): message : во время компиляции функции-члена класс шаблон "void buffer<T>::fileЫize(void)"
+          with
+          [
+              T=int
+          ]
+C:\Users\Madius\source\repos\labs_TP\1\lab_1\lab_1\buffer.h(79): message : выполняется компиляция ссылки на экземпляр шаблон функции "void buffer<T>::fileЫize(void)"
+          with
+          [
+              T=int
+          ]
+C:\Users\Madius\source\repos\labs_TP\1\lab_1\lab_1\buffer.h(44): message : во время компиляции функции-члена класс шаблон "buffer<T>::buffer(void)"
+          with
+          [
+              T=int
+          ]
+C:\Users\Madius\source\repos\labs_TP\1\lab_1\lab_1\virtual_page.h(30): message : выполняется компиляция ссылки на экземпляр шаблон функции "buffer<T>::buffer(void)"
+          with
+          [
+              T=int
+          ]
+  lab_1.vcxproj -> C:\Users\Madius\source\repos\labs_TP\1\lab_1\Debug\lab_1.exe

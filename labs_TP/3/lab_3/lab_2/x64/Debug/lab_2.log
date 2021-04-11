@@ -1,0 +1,60 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(467,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (lab_2.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  Source.cpp
+C:\Users\Madius\source\repos\labs_TP\3\lab_3\lab_2\Source.cpp(99,8): warning C4101: num: неиспользованная локальная переменная
+C:\Users\Madius\source\repos\labs_TP\3\lab_3\lab_2\Source.cpp(109,13): warning C4101: conf: неиспользованная локальная переменная
+C:\Users\Madius\source\repos\labs_TP\3\lab_3\lab_2\Source.cpp(109,8): warning C4101: num: неиспользованная локальная переменная
+C:\Users\Madius\source\repos\labs_TP\3\lab_3\lab_2\Source.cpp(128,8): warning C4101: num: неиспользованная локальная переменная
+C:\Users\Madius\source\repos\labs_TP\3\lab_3\lab_2\Source.cpp(148,8): warning C4101: num: неиспользованная локальная переменная
+C:\Users\Madius\source\repos\labs_TP\3\lab_3\lab_2\multiListF.h(194,14): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+C:\Users\Madius\source\repos\labs_TP\3\lab_3\lab_2\multiListF.h(178): message : во время компиляции функции-члена класс шаблон "void multiListF<Str>::insert(T)"
+          with
+          [
+              T=Str
+          ]
+C:\Users\Madius\source\repos\labs_TP\3\lab_3\lab_2\Source.cpp(103): message : выполняется компиляция ссылки на экземпляр шаблон функции "void multiListF<Str>::insert(T)"
+          with
+          [
+              T=Str
+          ]
+C:\Users\Madius\source\repos\labs_TP\3\lab_3\lab_2\Source.cpp(67): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "multiListF<Str>"
+C:\Users\Madius\source\repos\labs_TP\3\lab_3\lab_2\multiListF.h(309,13): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+C:\Users\Madius\source\repos\labs_TP\3\lab_3\lab_2\multiListF.h(307): message : во время компиляции функции-члена класс шаблон "void multiListF<Str>::showConf(void)"
+C:\Users\Madius\source\repos\labs_TP\3\lab_3\lab_2\Source.cpp(168): message : выполняется компиляция ссылки на экземпляр шаблон функции "void multiListF<Str>::showConf(void)"
+C:\Users\Madius\source\repos\labs_TP\3\lab_3\lab_2\multiListF.h(314,14): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+C:\Users\Madius\source\repos\labs_TP\3\lab_3\lab_2\multiListF.h(315,14): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+C:\Users\Madius\source\repos\labs_TP\3\lab_3\lab_2\multiListF.h(405,13): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+C:\Users\Madius\source\repos\labs_TP\3\lab_3\lab_2\multiListF.h(386): message : во время компиляции функции-члена класс шаблон "int multiListF<Str>::_link(int,int,int)"
+C:\Users\Madius\source\repos\labs_TP\3\lab_3\lab_2\multiListF.h(264): message : выполняется компиляция ссылки на экземпляр шаблон функции "int multiListF<Str>::_link(int,int,int)"
+C:\Users\Madius\source\repos\labs_TP\3\lab_3\lab_2\multiListF.h(123): message : во время компиляции функции-члена класс шаблон "multiListF<Str>::multiListF(const char *,Access)"
+C:\Users\Madius\source\repos\labs_TP\3\lab_3\lab_2\Source.cpp(74): message : выполняется компиляция ссылки на экземпляр шаблон функции "multiListF<Str>::multiListF(const char *,Access)"
+C:\Users\Madius\source\repos\labs_TP\3\lab_3\lab_2\multiListF.h(497,20): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+C:\Users\Madius\source\repos\labs_TP\3\lab_3\lab_2\multiListF.h(495): message : во время компиляции функции-члена класс шаблон "int multiListF<Str>::backPtr(int,bool)"
+C:\Users\Madius\source\repos\labs_TP\3\lab_3\lab_2\multiListF.h(161): message : выполняется компиляция ссылки на экземпляр шаблон функции "int multiListF<Str>::backPtr(int,bool)"
+C:\Users\Madius\source\repos\labs_TP\3\lab_3\lab_2\multiListF.h(642,14): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+C:\Users\Madius\source\repos\labs_TP\3\lab_3\lab_2\multiListF.h(631): message : во время компиляции функции-члена класс шаблон "int multiListF<Str>::firstOccurrence(int)"
+C:\Users\Madius\source\repos\labs_TP\3\lab_3\lab_2\multiListF.h(150): message : выполняется компиляция ссылки на экземпляр шаблон функции "int multiListF<Str>::firstOccurrence(int)"
+C:\Users\Madius\source\repos\labs_TP\3\lab_3\lab_2\multiListF.h(483,13): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+C:\Users\Madius\source\repos\labs_TP\3\lab_3\lab_2\multiListF.h(481): message : во время компиляции функции-члена класс шаблон "int multiListF<Str>::nextPtrConf(int)"
+C:\Users\Madius\source\repos\labs_TP\3\lab_3\lab_2\multiListF.h(300): message : выполняется компиляция ссылки на экземпляр шаблон функции "int multiListF<Str>::nextPtrConf(int)"
+C:\Users\Madius\source\repos\labs_TP\3\lab_3\lab_2\multiListF.h(483,39): warning C4101: ptrNext: неиспользованная локальная переменная
+C:\Users\Madius\source\repos\labs_TP\3\lab_3\lab_2\multiListF.h(469,13): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+C:\Users\Madius\source\repos\labs_TP\3\lab_3\lab_2\multiListF.h(467): message : во время компиляции функции-члена класс шаблон "int multiListF<Str>::nextPtr(int)"
+C:\Users\Madius\source\repos\labs_TP\3\lab_3\lab_2\multiListF.h(163): message : выполняется компиляция ссылки на экземпляр шаблон функции "int multiListF<Str>::nextPtr(int)"
+C:\Users\Madius\source\repos\labs_TP\3\lab_3\lab_2\multiListF.h(469,32): warning C4101: ptrNext: неиспользованная локальная переменная
+C:\Users\Madius\source\repos\labs_TP\3\lab_3\lab_2\multiListF.h(727,6): warning C4101: ptr1: неиспользованная локальная переменная
+C:\Users\Madius\source\repos\labs_TP\3\lab_3\lab_2\multiListF.h(722): message : во время компиляции функции-члена класс шаблон "void multiListF<Str>::swap(int,int)"
+C:\Users\Madius\source\repos\labs_TP\3\lab_3\lab_2\multiListF.h(709): message : выполняется компиляция ссылки на экземпляр шаблон функции "void multiListF<Str>::swap(int,int)"
+C:\Users\Madius\source\repos\labs_TP\3\lab_3\lab_2\multiListF.h(352): message : во время компиляции функции-члена класс шаблон "int multiListF<Str>::find(T)"
+          with
+          [
+              T=Str
+          ]
+C:\Users\Madius\source\repos\labs_TP\3\lab_3\lab_2\multiListF.h(142): message : выполняется компиляция ссылки на экземпляр шаблон функции "int multiListF<Str>::find(T)"
+          with
+          [
+              T=Str
+          ]
+C:\Users\Madius\source\repos\labs_TP\3\lab_3\lab_2\multiListF.h(728,7): warning C4101: flag1: неиспользованная локальная переменная
+C:\Users\Madius\source\repos\labs_TP\3\lab_3\lab_2\multiListF.h(728,14): warning C4101: flag2: неиспользованная локальная переменная
+C:\Users\Madius\source\repos\labs_TP\3\lab_3\lab_2\multiListF.h(727,12): warning C4101: ptr2: неиспользованная локальная переменная
+  lab_2.vcxproj -> C:\Users\Madius\source\repos\labs_TP\3\lab_3\x64\Debug\lab_3.exe

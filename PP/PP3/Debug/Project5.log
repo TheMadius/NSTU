@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\Madius\source\repos\PP3\Source.cpp(123,17): warning C4101: cond: неиспользованная локальная переменная
+  Project5.vcxproj -> C:\Users\Madius\source\repos\PP3\Debug\Project5.exe

@@ -1,0 +1,2 @@
+C:\Users\Madius\source\repos\ComputationalMath\lab2_VM\x64\Debug\lab2_VM.exe
+C:\Users\Madius\source\repos\ComputationalMath\lab2_VM\x64\Debug\lab2_VM.pdb

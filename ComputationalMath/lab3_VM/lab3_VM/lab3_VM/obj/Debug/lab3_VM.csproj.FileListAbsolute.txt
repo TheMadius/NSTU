@@ -1,0 +1,10 @@
+C:\Users\Madius\source\repos\ComputationalMath\lab3_VM\lab3_VM\lab3_VM\bin\Debug\lab3_VM.exe.config
+C:\Users\Madius\source\repos\ComputationalMath\lab3_VM\lab3_VM\lab3_VM\bin\Debug\lab3_VM.exe
+C:\Users\Madius\source\repos\ComputationalMath\lab3_VM\lab3_VM\lab3_VM\bin\Debug\lab3_VM.pdb
+C:\Users\Madius\source\repos\ComputationalMath\lab3_VM\lab3_VM\lab3_VM\obj\Debug\lab3_VM.csprojAssemblyReference.cache
+C:\Users\Madius\source\repos\ComputationalMath\lab3_VM\lab3_VM\lab3_VM\obj\Debug\lab3_VM.Form1.resources
+C:\Users\Madius\source\repos\ComputationalMath\lab3_VM\lab3_VM\lab3_VM\obj\Debug\lab3_VM.Properties.Resources.resources
+C:\Users\Madius\source\repos\ComputationalMath\lab3_VM\lab3_VM\lab3_VM\obj\Debug\lab3_VM.csproj.GenerateResource.cache
+C:\Users\Madius\source\repos\ComputationalMath\lab3_VM\lab3_VM\lab3_VM\obj\Debug\lab3_VM.csproj.CoreCompileInputs.cache
+C:\Users\Madius\source\repos\ComputationalMath\lab3_VM\lab3_VM\lab3_VM\obj\Debug\lab3_VM.exe
+C:\Users\Madius\source\repos\ComputationalMath\lab3_VM\lab3_VM\lab3_VM\obj\Debug\lab3_VM.pdb

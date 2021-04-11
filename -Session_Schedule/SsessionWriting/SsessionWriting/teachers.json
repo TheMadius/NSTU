@@ -1,0 +1,57 @@
+[
+  {
+    "FirstName": "Дмитрий",
+    "LastName": "Достовалов",
+    "MiddleName": "Николаевич",
+    "Department": {
+      "Name": "АСУ",
+      "Id": 404
+    }
+  },
+  {
+    "FirstName": "Сергей",
+    "LastName": "Владимирович",
+    "MiddleName": "Судоплатов",
+    "Department": {
+      "Name": "АМЛ",
+      "Id": 134
+    }
+  },
+  {
+    "FirstName": "Владимир",
+    "LastName": "Филатов",
+    "MiddleName": "Викторович",
+    "Department": {
+      "Name": "ИМ",
+      "Id": 734
+    }
+  },
+  {
+    "FirstName": "Александр ",
+    "LastName": "Штыгашев",
+    "MiddleName": "Анатольевич",
+    "Department": {
+      "Name": "ОФ",
+      "Id": 484
+    }
+  },
+  {
+    "FirstName": "Игорь ",
+    "LastName": "Заякин",
+    "MiddleName": "Иванович",
+    "Department": {
+      "Name": "ТОЭ",
+      "Id": 234
+    }
+  },
+  {
+    "FirstName": "Владимир",
+    "LastName": "Ландовский",
+    "MiddleName": "Владимирович",
+    "Department": {
+      "Name": "АСУ",
+      "Id": 404
+    }
+  }
+  
+]

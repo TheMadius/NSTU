@@ -1,0 +1,20 @@
+C:\Users\Madius\source\repos\labs_TP\course\Turing machine\Turing machine\bin\Release\Turing machine.exe.config
+C:\Users\Madius\source\repos\labs_TP\course\Turing machine\Turing machine\bin\Release\Turing machine.exe
+C:\Users\Madius\source\repos\labs_TP\course\Turing machine\Turing machine\bin\Release\Turing machine.pdb
+C:\Users\Madius\source\repos\labs_TP\course\Turing machine\Turing machine\obj\Release\Turing machine.csprojAssemblyReference.cache
+C:\Users\Madius\source\repos\labs_TP\course\Turing machine\Turing machine\obj\Release\Turing_machine.Form1.resources
+C:\Users\Madius\source\repos\labs_TP\course\Turing machine\Turing machine\obj\Release\Turing_machine.Properties.Resources.resources
+C:\Users\Madius\source\repos\labs_TP\course\Turing machine\Turing machine\obj\Release\Turing machine.csproj.GenerateResource.cache
+C:\Users\Madius\source\repos\labs_TP\course\Turing machine\Turing machine\obj\Release\Turing machine.csproj.CoreCompileInputs.cache
+C:\Users\Madius\source\repos\labs_TP\course\Turing machine\Turing machine\obj\Release\Turing machine.exe
+C:\Users\Madius\source\repos\labs_TP\course\Turing machine\Turing machine\obj\Release\Turing machine.pdb
+C:\Users\Madius\source\repos\labs_TP\course\Turing machine\Turing machine\bin\Release\Microsoft.WindowsAPICodePack.dll
+C:\Users\Madius\source\repos\labs_TP\course\Turing machine\Turing machine\bin\Release\Microsoft.WindowsAPICodePack.ExtendedLinguisticServices.dll
+C:\Users\Madius\source\repos\labs_TP\course\Turing machine\Turing machine\bin\Release\Microsoft.WindowsAPICodePack.Sensors.dll
+C:\Users\Madius\source\repos\labs_TP\course\Turing machine\Turing machine\bin\Release\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\Madius\source\repos\labs_TP\course\Turing machine\Turing machine\bin\Release\Microsoft.WindowsAPICodePack.ShellExtensions.dll
+C:\Users\Madius\source\repos\labs_TP\course\Turing machine\Turing machine\bin\Release\Newtonsoft.Json.dll
+C:\Users\Madius\source\repos\labs_TP\course\Turing machine\Turing machine\bin\Release\Newtonsoft.Json.xml
+C:\Users\Madius\source\repos\labs_TP\course\Turing machine\Turing machine\obj\Release\Turing_machine.addAct.resources
+C:\Users\Madius\source\repos\labs_TP\course\Turing machine\Turing machine\obj\Release\Turing_machine.addSim.resources
+C:\Users\Madius\source\repos\labs_TP\course\Turing machine\Turing machine\obj\Release\Turing machine.csproj.CopyComplete

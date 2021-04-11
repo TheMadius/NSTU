@@ -1,0 +1,20 @@
+C:\Users\Madius\source\repos\labs_TP\course\Turing machine\Turing machine\bin\Debug\Turing machine.exe.config
+C:\Users\Madius\source\repos\labs_TP\course\Turing machine\Turing machine\bin\Debug\Turing machine.exe
+C:\Users\Madius\source\repos\labs_TP\course\Turing machine\Turing machine\bin\Debug\Turing machine.pdb
+C:\Users\Madius\source\repos\labs_TP\course\Turing machine\Turing machine\obj\Debug\Turing machine.csprojAssemblyReference.cache
+C:\Users\Madius\source\repos\labs_TP\course\Turing machine\Turing machine\obj\Debug\Turing_machine.Form1.resources
+C:\Users\Madius\source\repos\labs_TP\course\Turing machine\Turing machine\obj\Debug\Turing_machine.Properties.Resources.resources
+C:\Users\Madius\source\repos\labs_TP\course\Turing machine\Turing machine\obj\Debug\Turing machine.csproj.GenerateResource.cache
+C:\Users\Madius\source\repos\labs_TP\course\Turing machine\Turing machine\obj\Debug\Turing machine.csproj.CoreCompileInputs.cache
+C:\Users\Madius\source\repos\labs_TP\course\Turing machine\Turing machine\obj\Debug\Turing machine.exe
+C:\Users\Madius\source\repos\labs_TP\course\Turing machine\Turing machine\obj\Debug\Turing machine.pdb
+C:\Users\Madius\source\repos\labs_TP\course\Turing machine\Turing machine\obj\Debug\Turing_machine.addSim.resources
+C:\Users\Madius\source\repos\labs_TP\course\Turing machine\Turing machine\obj\Debug\Turing_machine.addAct.resources
+C:\Users\Madius\source\repos\labs_TP\course\Turing machine\Turing machine\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Madius\source\repos\labs_TP\course\Turing machine\Turing machine\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Madius\source\repos\labs_TP\course\Turing machine\Turing machine\obj\Debug\Turing machine.csproj.CopyComplete
+C:\Users\Madius\source\repos\labs_TP\course\Turing machine\Turing machine\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\Madius\source\repos\labs_TP\course\Turing machine\Turing machine\bin\Debug\Microsoft.WindowsAPICodePack.ExtendedLinguisticServices.dll
+C:\Users\Madius\source\repos\labs_TP\course\Turing machine\Turing machine\bin\Debug\Microsoft.WindowsAPICodePack.Sensors.dll
+C:\Users\Madius\source\repos\labs_TP\course\Turing machine\Turing machine\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\Madius\source\repos\labs_TP\course\Turing machine\Turing machine\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.dll

@@ -1,0 +1,59 @@
+﻿  Source.cpp
+C:\Users\Madius\source\repos\labs_TP\1\lab_1\lab_1\virtual_memory.h(79,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Madius\source\repos\labs_TP\1\lab_1\lab_1\virtual_memory.h(131,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Madius\source\repos\labs_TP\1\lab_1\lab_1\Source.cpp(26,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Madius\source\repos\labs_TP\1\lab_1\lab_1\Source.cpp(42,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Madius\source\repos\labs_TP\1\lab_1\lab_1\virtual_memory.h(58,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Madius\source\repos\labs_TP\1\lab_1\lab_1\virtual_memory.h(56): message : во время компиляции функции-члена класс шаблон "void virtual_memory<int>::vput(long,T)"
+          with
+          [
+              T=int
+          ]
+C:\Users\Madius\source\repos\labs_TP\1\lab_1\lab_1\Source.cpp(64): message : выполняется компиляция ссылки на экземпляр шаблон функции "void virtual_memory<int>::vput(long,T)"
+          with
+          [
+              T=int
+          ]
+C:\Users\Madius\source\repos\labs_TP\1\lab_1\lab_1\Source.cpp(62): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "virtual_memory<int>"
+C:\Users\Madius\source\repos\labs_TP\1\lab_1\lab_1\virtual_memory.h(68,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Madius\source\repos\labs_TP\1\lab_1\lab_1\virtual_memory.h(79,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Madius\source\repos\labs_TP\1\lab_1\lab_1\virtual_memory.h(94,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Madius\source\repos\labs_TP\1\lab_1\lab_1\virtual_memory.h(93): message : во время компиляции функции-члена класс шаблон "void virtual_memory<int>::clearBufer(void)"
+C:\Users\Madius\source\repos\labs_TP\1\lab_1\lab_1\Source.cpp(72): message : выполняется компиляция ссылки на экземпляр шаблон функции "void virtual_memory<int>::clearBufer(void)"
+C:\Users\Madius\source\repos\labs_TP\1\lab_1\lab_1\virtual_memory.h(111,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Madius\source\repos\labs_TP\1\lab_1\lab_1\virtual_memory.h(110): message : во время компиляции функции-члена класс шаблон "T virtual_memory<T>::vget(long)"
+          with
+          [
+              T=int
+          ]
+C:\Users\Madius\source\repos\labs_TP\1\lab_1\lab_1\virtual_memory.h(105): message : выполняется компиляция ссылки на экземпляр шаблон функции "T virtual_memory<T>::vget(long)"
+          with
+          [
+              T=int
+          ]
+C:\Users\Madius\source\repos\labs_TP\1\lab_1\lab_1\virtual_memory.h(32): message : во время компиляции функции-члена класс шаблон "virtual_memory<int>::virtual_memory(const char *,long,int)"
+C:\Users\Madius\source\repos\labs_TP\1\lab_1\lab_1\Source.cpp(62): message : выполняется компиляция ссылки на экземпляр шаблон функции "virtual_memory<int>::virtual_memory(const char *,long,int)"
+C:\Users\Madius\source\repos\labs_TP\1\lab_1\lab_1\virtual_memory.h(122,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Madius\source\repos\labs_TP\1\lab_1\lab_1\virtual_memory.h(131,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Madius\source\repos\labs_TP\1\lab_1\lab_1\buffer.h(251,25): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+C:\Users\Madius\source\repos\labs_TP\1\lab_1\lab_1\buffer.h(246): message : во время компиляции функции-члена класс шаблон "void buffer<T>::fileSize(void)"
+          with
+          [
+              T=int
+          ]
+C:\Users\Madius\source\repos\labs_TP\1\lab_1\lab_1\buffer.h(82): message : выполняется компиляция ссылки на экземпляр шаблон функции "void buffer<T>::fileSize(void)"
+          with
+          [
+              T=int
+          ]
+C:\Users\Madius\source\repos\labs_TP\1\lab_1\lab_1\virtual_memory.h(110): message : во время компиляции функции-члена класс шаблон "T virtual_memory<T>::vget(long)"
+          with
+          [
+              T=int
+          ]
+C:\Users\Madius\source\repos\labs_TP\1\lab_1\lab_1\virtual_memory.h(105): message : выполняется компиляция ссылки на экземпляр шаблон функции "T virtual_memory<T>::vget(long)"
+          with
+          [
+              T=int
+          ]
+  lab_1.vcxproj -> C:\Users\Madius\source\repos\labs_TP\1\lab_1\x64\Debug\lab_1.exe

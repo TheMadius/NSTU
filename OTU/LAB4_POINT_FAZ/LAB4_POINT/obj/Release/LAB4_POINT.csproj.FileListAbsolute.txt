@@ -1,0 +1,22 @@
+C:\Users\Madius\source\repos\LAB4_POINT\LAB4_POINT\bin\Release\LAB4_POINT.exe.config
+C:\Users\Madius\source\repos\LAB4_POINT\LAB4_POINT\bin\Release\LAB4_POINT.exe
+C:\Users\Madius\source\repos\LAB4_POINT\LAB4_POINT\bin\Release\LAB4_POINT.pdb
+C:\Users\Madius\source\repos\LAB4_POINT\LAB4_POINT\obj\Release\LAB4_POINT.csprojAssemblyReference.cache
+C:\Users\Madius\source\repos\LAB4_POINT\LAB4_POINT\obj\Release\LAB4_POINT.Form1.resources
+C:\Users\Madius\source\repos\LAB4_POINT\LAB4_POINT\obj\Release\LAB4_POINT.Form2.resources
+C:\Users\Madius\source\repos\LAB4_POINT\LAB4_POINT\obj\Release\LAB4_POINT.Properties.Resources.resources
+C:\Users\Madius\source\repos\LAB4_POINT\LAB4_POINT\obj\Release\LAB4_POINT.csproj.GenerateResource.cache
+C:\Users\Madius\source\repos\LAB4_POINT\LAB4_POINT\obj\Release\LAB4_POINT.csproj.CoreCompileInputs.cache
+C:\Users\Madius\source\repos\LAB4_POINT\LAB4_POINT\obj\Release\LAB4_POINT.exe
+C:\Users\Madius\source\repos\LAB4_POINT\LAB4_POINT\obj\Release\LAB4_POINT.pdb
+C:\Users\Madius\source\repos\LAB4_POINT — копия\LAB4_POINT\bin\Release\LAB4_POINT.exe.config
+C:\Users\Madius\source\repos\LAB4_POINT — копия\LAB4_POINT\bin\Release\LAB4_POINT.exe
+C:\Users\Madius\source\repos\LAB4_POINT — копия\LAB4_POINT\bin\Release\LAB4_POINT.pdb
+C:\Users\Madius\source\repos\LAB4_POINT — копия\LAB4_POINT\obj\Release\LAB4_POINT.csprojAssemblyReference.cache
+C:\Users\Madius\source\repos\LAB4_POINT — копия\LAB4_POINT\obj\Release\LAB4_POINT.Form1.resources
+C:\Users\Madius\source\repos\LAB4_POINT — копия\LAB4_POINT\obj\Release\LAB4_POINT.Form2.resources
+C:\Users\Madius\source\repos\LAB4_POINT — копия\LAB4_POINT\obj\Release\LAB4_POINT.Properties.Resources.resources
+C:\Users\Madius\source\repos\LAB4_POINT — копия\LAB4_POINT\obj\Release\LAB4_POINT.csproj.GenerateResource.cache
+C:\Users\Madius\source\repos\LAB4_POINT — копия\LAB4_POINT\obj\Release\LAB4_POINT.csproj.CoreCompileInputs.cache
+C:\Users\Madius\source\repos\LAB4_POINT — копия\LAB4_POINT\obj\Release\LAB4_POINT.exe
+C:\Users\Madius\source\repos\LAB4_POINT — копия\LAB4_POINT\obj\Release\LAB4_POINT.pdb

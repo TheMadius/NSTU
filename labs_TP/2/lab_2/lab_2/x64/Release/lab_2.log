@@ -1,0 +1,26 @@
+﻿  Source.cpp
+C:\Users\Madius\source\repos\labs_TP\2\lab_2\lab_2\Flist.h(111,14): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+C:\Users\Madius\source\repos\labs_TP\2\lab_2\lab_2\Flist.h(94): message : во время компиляции функции-члена класс шаблон "void Flist<int>::insert(T)"
+          with
+          [
+              T=int
+          ]
+C:\Users\Madius\source\repos\labs_TP\2\lab_2\lab_2\Source.cpp(52): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Flist<int>::insert(T)"
+          with
+          [
+              T=int
+          ]
+C:\Users\Madius\source\repos\labs_TP\2\lab_2\lab_2\Source.cpp(26): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Flist<int>"
+C:\Users\Madius\source\repos\labs_TP\2\lab_2\lab_2\Flist.h(265,20): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+C:\Users\Madius\source\repos\labs_TP\2\lab_2\lab_2\Flist.h(264): message : во время компиляции функции-члена класс шаблон "int Flist<int>::backPtr(int,bool)"
+C:\Users\Madius\source\repos\labs_TP\2\lab_2\lab_2\Flist.h(77): message : выполняется компиляция ссылки на экземпляр шаблон функции "int Flist<int>::backPtr(int,bool)"
+C:\Users\Madius\source\repos\labs_TP\2\lab_2\lab_2\Flist.h(50): message : во время компиляции функции-члена класс шаблон "Flist<int>::Flist(const char *,Access)"
+C:\Users\Madius\source\repos\labs_TP\2\lab_2\lab_2\Source.cpp(30): message : выполняется компиляция ссылки на экземпляр шаблон функции "Flist<int>::Flist(const char *,Access)"
+C:\Users\Madius\source\repos\labs_TP\2\lab_2\lab_2\Flist.h(252,13): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+C:\Users\Madius\source\repos\labs_TP\2\lab_2\lab_2\Flist.h(251): message : во время компиляции функции-члена класс шаблон "int Flist<int>::nextPtr(int)"
+C:\Users\Madius\source\repos\labs_TP\2\lab_2\lab_2\Flist.h(79): message : выполняется компиляция ссылки на экземпляр шаблон функции "int Flist<int>::nextPtr(int)"
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 192 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  lab_2.vcxproj -> C:\Users\Madius\source\repos\labs_TP\2\lab_2\x64\Release\lab_2.exe

@@ -1,0 +1,10 @@
+C:\Users\Madius\source\repos\IM\lab2_IM\lab2_IM\bin\Release\lab2_IM.exe.config
+C:\Users\Madius\source\repos\IM\lab2_IM\lab2_IM\bin\Release\lab2_IM.exe
+C:\Users\Madius\source\repos\IM\lab2_IM\lab2_IM\bin\Release\lab2_IM.pdb
+C:\Users\Madius\source\repos\IM\lab2_IM\lab2_IM\obj\Release\lab2_IM.csprojAssemblyReference.cache
+C:\Users\Madius\source\repos\IM\lab2_IM\lab2_IM\obj\Release\lab2_IM.Form1.resources
+C:\Users\Madius\source\repos\IM\lab2_IM\lab2_IM\obj\Release\lab2_IM.Properties.Resources.resources
+C:\Users\Madius\source\repos\IM\lab2_IM\lab2_IM\obj\Release\lab2_IM.csproj.GenerateResource.cache
+C:\Users\Madius\source\repos\IM\lab2_IM\lab2_IM\obj\Release\lab2_IM.csproj.CoreCompileInputs.cache
+C:\Users\Madius\source\repos\IM\lab2_IM\lab2_IM\obj\Release\lab2_IM.exe
+C:\Users\Madius\source\repos\IM\lab2_IM\lab2_IM\obj\Release\lab2_IM.pdb

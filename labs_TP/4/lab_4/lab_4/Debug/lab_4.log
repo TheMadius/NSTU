@@ -1,0 +1,23 @@
+﻿  Source.cpp
+C:\Users\Madius\source\repos\labs_TP\4\lab_4\lab_4\Btree.h(138,30): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+C:\Users\Madius\source\repos\labs_TP\4\lab_4\lab_4\Btree.h(116): message : во время компиляции функции-члена класс шаблон "void Btree<int>::show(void)"
+C:\Users\Madius\source\repos\labs_TP\4\lab_4\lab_4\Source.cpp(18): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Btree<int>::show(void)"
+C:\Users\Madius\source\repos\labs_TP\4\lab_4\lab_4\Source.cpp(7): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Btree<int>"
+C:\Users\Madius\source\repos\labs_TP\4\lab_4\lab_4\Btree.h(100,31): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+C:\Users\Madius\source\repos\labs_TP\4\lab_4\lab_4\Btree.h(92): message : во время компиляции функции-члена класс шаблон "int Btree<int>::newPage(void)"
+C:\Users\Madius\source\repos\labs_TP\4\lab_4\lab_4\Btree.h(78): message : выполняется компиляция ссылки на экземпляр шаблон функции "int Btree<int>::newPage(void)"
+C:\Users\Madius\source\repos\labs_TP\4\lab_4\lab_4\Btree.h(64): message : во время компиляции функции-члена класс шаблон "Btree<int>::Btree(const char *,Access,int)"
+C:\Users\Madius\source\repos\labs_TP\4\lab_4\lab_4\Source.cpp(7): message : выполняется компиляция ссылки на экземпляр шаблон функции "Btree<int>::Btree(const char *,Access,int)"
+C:\Users\Madius\source\repos\labs_TP\4\lab_4\lab_4\Btree.h(210,27): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+C:\Users\Madius\source\repos\labs_TP\4\lab_4\lab_4\Btree.h(199): message : во время компиляции функции-члена класс шаблон "int Btree<int>::addDataPage(int,T)"
+          with
+          [
+              T=int
+          ]
+C:\Users\Madius\source\repos\labs_TP\4\lab_4\lab_4\Btree.h(80): message : выполняется компиляция ссылки на экземпляр шаблон функции "int Btree<int>::addDataPage(int,T)"
+          with
+          [
+              T=int
+          ]
+C:\Users\Madius\source\repos\labs_TP\4\lab_4\lab_4\Btree.h(224,28): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+  lab_4.vcxproj -> C:\Users\Madius\source\repos\labs_TP\4\lab_4\Debug\lab_4.exe

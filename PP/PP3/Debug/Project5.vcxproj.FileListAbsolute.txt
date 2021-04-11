@@ -1,0 +1,4 @@
+C:\Users\Madius\source\repos\Project5\Debug\Project5.exe
+C:\Users\Madius\source\repos\Project5\Debug\Project5.pdb
+C:\Users\Madius\source\repos\PP3\Debug\Project5.exe
+C:\Users\Madius\source\repos\PP3\Debug\Project5.pdb
