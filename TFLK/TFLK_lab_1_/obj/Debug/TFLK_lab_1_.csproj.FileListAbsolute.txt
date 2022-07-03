@@ -1,0 +1,206 @@
+C:\Users\User.DESKTOP-Q2FT676\source\repos\TFLK_lab_1_\TFLK_lab_1_\bin\Debug\TFLK_lab_1_.exe.config
+C:\Users\User.DESKTOP-Q2FT676\source\repos\TFLK_lab_1_\TFLK_lab_1_\bin\Debug\TFLK_lab_1_.exe
+C:\Users\User.DESKTOP-Q2FT676\source\repos\TFLK_lab_1_\TFLK_lab_1_\bin\Debug\TFLK_lab_1_.pdb
+C:\Users\User.DESKTOP-Q2FT676\source\repos\TFLK_lab_1_\TFLK_lab_1_\obj\Debug\TFLK_lab_1_.csprojAssemblyReference.cache
+C:\Users\User.DESKTOP-Q2FT676\source\repos\TFLK_lab_1_\TFLK_lab_1_\obj\Debug\TFLK_lab_1_.Form1.resources
+C:\Users\User.DESKTOP-Q2FT676\source\repos\TFLK_lab_1_\TFLK_lab_1_\obj\Debug\TFLK_lab_1_.Properties.Resources.resources
+C:\Users\User.DESKTOP-Q2FT676\source\repos\TFLK_lab_1_\TFLK_lab_1_\obj\Debug\TFLK_lab_1_.csproj.GenerateResource.cache
+C:\Users\User.DESKTOP-Q2FT676\source\repos\TFLK_lab_1_\TFLK_lab_1_\obj\Debug\TFLK_lab_1_.csproj.CoreCompileInputs.cache
+C:\Users\User.DESKTOP-Q2FT676\source\repos\TFLK_lab_1_\TFLK_lab_1_\obj\Debug\TFLK_lab_1_.exe
+C:\Users\User.DESKTOP-Q2FT676\source\repos\TFLK_lab_1_\TFLK_lab_1_\obj\Debug\TFLK_lab_1_.pdb
+C:\Users\User.DESKTOP-Q2FT676\source\repos\TFLK_lab_1_\TFLK_lab_1_\obj\Debug\TFLK_lab_1_.Resource1.resources
+C:\Users\Madius\source\repos\TFLK_lab_1_\TFLK_lab_1_\bin\Debug\TFLK_lab_1_.exe.config
+C:\Users\Madius\source\repos\TFLK_lab_1_\TFLK_lab_1_\bin\Debug\TFLK_lab_1_.exe
+C:\Users\Madius\source\repos\TFLK_lab_1_\TFLK_lab_1_\bin\Debug\TFLK_lab_1_.pdb
+C:\Users\Madius\source\repos\TFLK_lab_1_\TFLK_lab_1_\obj\Debug\TFLK_lab_1_.csprojAssemblyReference.cache
+C:\Users\Madius\source\repos\TFLK_lab_1_\TFLK_lab_1_\obj\Debug\TFLK_lab_1_.Form1.resources
+C:\Users\Madius\source\repos\TFLK_lab_1_\TFLK_lab_1_\obj\Debug\TFLK_lab_1_.Properties.Resources.resources
+C:\Users\Madius\source\repos\TFLK_lab_1_\TFLK_lab_1_\obj\Debug\TFLK_lab_1_.Resource1.resources
+C:\Users\Madius\source\repos\TFLK_lab_1_\TFLK_lab_1_\obj\Debug\TFLK_lab_1_.csproj.GenerateResource.cache
+C:\Users\Madius\source\repos\TFLK_lab_1_\TFLK_lab_1_\obj\Debug\TFLK_lab_1_.csproj.CoreCompileInputs.cache
+C:\Users\Madius\source\repos\TFLK_lab_1_\TFLK_lab_1_\obj\Debug\TFLK_lab_1_.exe
+C:\Users\Madius\source\repos\TFLK_lab_1_\TFLK_lab_1_\obj\Debug\TFLK_lab_1_.pdb
+C:\Users\User.DESKTOP-Q2FT676\Downloads\SP-master\TFLK_lab_1_\bin\Debug\TFLK_lab_1_.exe.config
+C:\Users\User.DESKTOP-Q2FT676\Downloads\SP-master\TFLK_lab_1_\bin\Debug\TFLK_lab_1_.exe
+C:\Users\User.DESKTOP-Q2FT676\Downloads\SP-master\TFLK_lab_1_\bin\Debug\TFLK_lab_1_.pdb
+C:\Users\User.DESKTOP-Q2FT676\Downloads\SP-master\TFLK_lab_1_\obj\Debug\TFLK_lab_1_.csprojAssemblyReference.cache
+C:\Users\User.DESKTOP-Q2FT676\Downloads\SP-master\TFLK_lab_1_\obj\Debug\TFLK_lab_1_.Form1.resources
+C:\Users\User.DESKTOP-Q2FT676\Downloads\SP-master\TFLK_lab_1_\obj\Debug\TFLK_lab_1_.Properties.Resources.resources
+C:\Users\User.DESKTOP-Q2FT676\Downloads\SP-master\TFLK_lab_1_\obj\Debug\TFLK_lab_1_.Resource1.resources
+C:\Users\User.DESKTOP-Q2FT676\Downloads\SP-master\TFLK_lab_1_\obj\Debug\TFLK_lab_1_.csproj.GenerateResource.cache
+C:\Users\User.DESKTOP-Q2FT676\Downloads\SP-master\TFLK_lab_1_\obj\Debug\TFLK_lab_1_.csproj.CoreCompileInputs.cache
+C:\Users\User.DESKTOP-Q2FT676\Downloads\SP-master\TFLK_lab_1_\obj\Debug\TFLK_lab_1_.exe
+C:\Users\User.DESKTOP-Q2FT676\Downloads\SP-master\TFLK_lab_1_\obj\Debug\TFLK_lab_1_.pdb
+G:\6ой семак\ТФЯК\SP-master\TFLK_lab_1_\bin\Debug\TFLK_lab_1_.exe.config
+G:\6ой семак\ТФЯК\SP-master\TFLK_lab_1_\bin\Debug\TFLK_lab_1_.exe
+G:\6ой семак\ТФЯК\SP-master\TFLK_lab_1_\bin\Debug\TFLK_lab_1_.pdb
+G:\6ой семак\ТФЯК\SP-master\TFLK_lab_1_\obj\Debug\TFLK_lab_1_.csprojAssemblyReference.cache
+G:\6ой семак\ТФЯК\SP-master\TFLK_lab_1_\obj\Debug\TFLK_lab_1_.Form1.resources
+G:\6ой семак\ТФЯК\SP-master\TFLK_lab_1_\obj\Debug\TFLK_lab_1_.Properties.Resources.resources
+G:\6ой семак\ТФЯК\SP-master\TFLK_lab_1_\obj\Debug\TFLK_lab_1_.Resource1.resources
+G:\6ой семак\ТФЯК\SP-master\TFLK_lab_1_\obj\Debug\TFLK_lab_1_.csproj.GenerateResource.cache
+G:\6ой семак\ТФЯК\SP-master\TFLK_lab_1_\obj\Debug\TFLK_lab_1_.csproj.CoreCompileInputs.cache
+G:\6ой семак\ТФЯК\SP-master\TFLK_lab_1_\obj\Debug\TFLK_lab_1_.exe
+G:\6ой семак\ТФЯК\SP-master\TFLK_lab_1_\obj\Debug\TFLK_lab_1_.pdb
+C:\Users\Madius\Desktop\SP-master\TFLK_lab_1_\bin\Debug\TFLK_lab_1_.exe.config
+C:\Users\Madius\Desktop\SP-master\TFLK_lab_1_\bin\Debug\TFLK_lab_1_.exe
+C:\Users\Madius\Desktop\SP-master\TFLK_lab_1_\bin\Debug\TFLK_lab_1_.pdb
+C:\Users\Madius\Desktop\SP-master\TFLK_lab_1_\obj\Debug\TFLK_lab_1_.csprojAssemblyReference.cache
+C:\Users\Madius\Desktop\SP-master\TFLK_lab_1_\obj\Debug\TFLK_lab_1_.Form1.resources
+C:\Users\Madius\Desktop\SP-master\TFLK_lab_1_\obj\Debug\TFLK_lab_1_.Properties.Resources.resources
+C:\Users\Madius\Desktop\SP-master\TFLK_lab_1_\obj\Debug\TFLK_lab_1_.Resource1.resources
+C:\Users\Madius\Desktop\SP-master\TFLK_lab_1_\obj\Debug\TFLK_lab_1_.csproj.GenerateResource.cache
+C:\Users\Madius\Desktop\SP-master\TFLK_lab_1_\obj\Debug\TFLK_lab_1_.csproj.CoreCompileInputs.cache
+C:\Users\Madius\Desktop\SP-master\TFLK_lab_1_\obj\Debug\TFLK_lab_1_.exe
+C:\Users\Madius\Desktop\SP-master\TFLK_lab_1_\obj\Debug\TFLK_lab_1_.pdb
+D:\TFLK_lab_1_\TFLK_lab_1_\bin\Debug\TFLK_lab_1_.exe.config
+D:\TFLK_lab_1_\TFLK_lab_1_\bin\Debug\TFLK_lab_1_.exe
+D:\TFLK_lab_1_\TFLK_lab_1_\bin\Debug\TFLK_lab_1_.pdb
+D:\TFLK_lab_1_\TFLK_lab_1_\obj\Debug\TFLK_lab_1_.csprojAssemblyReference.cache
+D:\TFLK_lab_1_\TFLK_lab_1_\obj\Debug\TFLK_lab_1_.Form1.resources
+D:\TFLK_lab_1_\TFLK_lab_1_\obj\Debug\TFLK_lab_1_.Properties.Resources.resources
+D:\TFLK_lab_1_\TFLK_lab_1_\obj\Debug\TFLK_lab_1_.Resource1.resources
+D:\TFLK_lab_1_\TFLK_lab_1_\obj\Debug\TFLK_lab_1_.csproj.GenerateResource.cache
+D:\TFLK_lab_1_\TFLK_lab_1_\obj\Debug\TFLK_lab_1_.csproj.CoreCompileInputs.cache
+D:\TFLK_lab_1_\TFLK_lab_1_\obj\Debug\TFLK_lab_1_.exe
+D:\TFLK_lab_1_\TFLK_lab_1_\obj\Debug\TFLK_lab_1_.pdb
+C:\Users\Madius\Desktop\TFLK_lab_1_\TFLK_lab_1_\bin\Debug\TFLK_lab_1_.exe.config
+C:\Users\Madius\Desktop\TFLK_lab_1_\TFLK_lab_1_\bin\Debug\TFLK_lab_1_.exe
+C:\Users\Madius\Desktop\TFLK_lab_1_\TFLK_lab_1_\bin\Debug\TFLK_lab_1_.pdb
+C:\Users\Madius\Desktop\TFLK_lab_1_\TFLK_lab_1_\obj\Debug\TFLK_lab_1_.csprojAssemblyReference.cache
+C:\Users\Madius\Desktop\TFLK_lab_1_\TFLK_lab_1_\obj\Debug\TFLK_lab_1_.Form1.resources
+C:\Users\Madius\Desktop\TFLK_lab_1_\TFLK_lab_1_\obj\Debug\TFLK_lab_1_.Properties.Resources.resources
+C:\Users\Madius\Desktop\TFLK_lab_1_\TFLK_lab_1_\obj\Debug\TFLK_lab_1_.Resource1.resources
+C:\Users\Madius\Desktop\TFLK_lab_1_\TFLK_lab_1_\obj\Debug\TFLK_lab_1_.csproj.GenerateResource.cache
+C:\Users\Madius\Desktop\TFLK_lab_1_\TFLK_lab_1_\obj\Debug\TFLK_lab_1_.csproj.CoreCompileInputs.cache
+C:\Users\Madius\Desktop\TFLK_lab_1_\TFLK_lab_1_\obj\Debug\TFLK_lab_1_.exe
+C:\Users\Madius\Desktop\TFLK_lab_1_\TFLK_lab_1_\obj\Debug\TFLK_lab_1_.pdb
+C:\Users\Дима\Desktop\TFLK_lab_1_\TFLK_lab_1_\bin\Debug\TFLK_lab_1_.exe.config
+C:\Users\Дима\Desktop\TFLK_lab_1_\TFLK_lab_1_\bin\Debug\TFLK_lab_1_.exe
+C:\Users\Дима\Desktop\TFLK_lab_1_\TFLK_lab_1_\bin\Debug\TFLK_lab_1_.pdb
+C:\Users\Дима\Desktop\TFLK_lab_1_\TFLK_lab_1_\obj\Debug\TFLK_lab_1_.csprojAssemblyReference.cache
+C:\Users\Дима\Desktop\TFLK_lab_1_\TFLK_lab_1_\obj\Debug\TFLK_lab_1_.Form1.resources
+C:\Users\Дима\Desktop\TFLK_lab_1_\TFLK_lab_1_\obj\Debug\TFLK_lab_1_.Properties.Resources.resources
+C:\Users\Дима\Desktop\TFLK_lab_1_\TFLK_lab_1_\obj\Debug\TFLK_lab_1_.Resource1.resources
+C:\Users\Дима\Desktop\TFLK_lab_1_\TFLK_lab_1_\obj\Debug\TFLK_lab_1_.csproj.GenerateResource.cache
+C:\Users\Дима\Desktop\TFLK_lab_1_\TFLK_lab_1_\obj\Debug\TFLK_lab_1_.csproj.CoreCompileInputs.cache
+C:\Users\Дима\Desktop\TFLK_lab_1_\TFLK_lab_1_\obj\Debug\TFLK_lab_1_.exe
+C:\Users\Дима\Desktop\TFLK_lab_1_\TFLK_lab_1_\obj\Debug\TFLK_lab_1_.pdb
+C:\Users\Дима\source\repos\SP\TFLK_lab_1_\obj\Debug\TFLK_lab_1_.csprojAssemblyReference.cache
+C:\Users\Дима\source\repos\SP\TFLK_lab_1_\obj\Debug\TFLK_lab_1_.Form1.resources
+C:\Users\Дима\source\repos\SP\TFLK_lab_1_\obj\Debug\TFLK_lab_1_.Properties.Resources.resources
+C:\Users\Дима\source\repos\SP\TFLK_lab_1_\obj\Debug\TFLK_lab_1_.Resource1.resources
+C:\Users\Дима\source\repos\SP\TFLK_lab_1_\obj\Debug\TFLK_lab_1_.csproj.GenerateResource.cache
+C:\Users\Дима\source\repos\SP\TFLK_lab_1_\obj\Debug\TFLK_lab_1_.csproj.CoreCompileInputs.cache
+C:\Users\Дима\source\repos\SP\TFLK_lab_1_\obj\Debug\TFLK_lab_1_.exe
+C:\Users\Дима\source\repos\SP\TFLK_lab_1_\obj\Debug\TFLK_lab_1_.pdb
+C:\Users\Дима\source\repos\SP\TFLK_lab_1_\bin\Debug\TFLK_lab_1_.exe.config
+C:\Users\Дима\source\repos\SP\TFLK_lab_1_\bin\Debug\TFLK_lab_1_.exe
+C:\Users\Дима\source\repos\SP\TFLK_lab_1_\bin\Debug\TFLK_lab_1_.pdb
+C:\Users\Madius\source\SP\TFLK_lab_1_\bin\Debug\TFLK_lab_1_.exe.config
+C:\Users\Madius\source\SP\TFLK_lab_1_\bin\Debug\TFLK_lab_1_.exe
+C:\Users\Madius\source\SP\TFLK_lab_1_\bin\Debug\TFLK_lab_1_.pdb
+C:\Users\Madius\source\SP\TFLK_lab_1_\obj\Debug\TFLK_lab_1_.csprojAssemblyReference.cache
+C:\Users\Madius\source\SP\TFLK_lab_1_\obj\Debug\TFLK_lab_1_.Form1.resources
+C:\Users\Madius\source\SP\TFLK_lab_1_\obj\Debug\TFLK_lab_1_.Properties.Resources.resources
+C:\Users\Madius\source\SP\TFLK_lab_1_\obj\Debug\TFLK_lab_1_.Resource1.resources
+C:\Users\Madius\source\SP\TFLK_lab_1_\obj\Debug\TFLK_lab_1_.csproj.GenerateResource.cache
+C:\Users\Madius\source\SP\TFLK_lab_1_\obj\Debug\TFLK_lab_1_.csproj.CoreCompileInputs.cache
+C:\Users\Madius\source\SP\TFLK_lab_1_\obj\Debug\TFLK_lab_1_.exe
+C:\Users\Madius\source\SP\TFLK_lab_1_\obj\Debug\TFLK_lab_1_.pdb
+C:\Users\User.DESKTOP-Q2FT676\Downloads\SP-master (1)\SP-master\TFLK_lab_1_\bin\Debug\TFLK_lab_1_.exe.config
+C:\Users\User.DESKTOP-Q2FT676\Downloads\SP-master (1)\SP-master\TFLK_lab_1_\bin\Debug\TFLK_lab_1_.exe
+C:\Users\User.DESKTOP-Q2FT676\Downloads\SP-master (1)\SP-master\TFLK_lab_1_\bin\Debug\TFLK_lab_1_.pdb
+C:\Users\User.DESKTOP-Q2FT676\Downloads\SP-master (1)\SP-master\TFLK_lab_1_\obj\Debug\TFLK_lab_1_.csprojAssemblyReference.cache
+C:\Users\User.DESKTOP-Q2FT676\Downloads\SP-master (1)\SP-master\TFLK_lab_1_\obj\Debug\TFLK_lab_1_.Form1.resources
+C:\Users\User.DESKTOP-Q2FT676\Downloads\SP-master (1)\SP-master\TFLK_lab_1_\obj\Debug\TFLK_lab_1_.Properties.Resources.resources
+C:\Users\User.DESKTOP-Q2FT676\Downloads\SP-master (1)\SP-master\TFLK_lab_1_\obj\Debug\TFLK_lab_1_.Resource1.resources
+C:\Users\User.DESKTOP-Q2FT676\Downloads\SP-master (1)\SP-master\TFLK_lab_1_\obj\Debug\TFLK_lab_1_.csproj.GenerateResource.cache
+C:\Users\User.DESKTOP-Q2FT676\Downloads\SP-master (1)\SP-master\TFLK_lab_1_\obj\Debug\TFLK_lab_1_.csproj.CoreCompileInputs.cache
+C:\Users\User.DESKTOP-Q2FT676\Downloads\SP-master (1)\SP-master\TFLK_lab_1_\obj\Debug\TFLK_lab_1_.exe
+C:\Users\User.DESKTOP-Q2FT676\Downloads\SP-master (1)\SP-master\TFLK_lab_1_\obj\Debug\TFLK_lab_1_.pdb
+C:\Users\Madius\source\repos\SP\TFLandK\TFLK_lab_1_\bin\Debug\TFLK_lab_1_.exe.config
+C:\Users\Madius\source\repos\SP\TFLandK\TFLK_lab_1_\bin\Debug\TFLK_lab_1_.exe
+C:\Users\Madius\source\repos\SP\TFLandK\TFLK_lab_1_\bin\Debug\TFLK_lab_1_.pdb
+C:\Users\Madius\source\repos\SP\TFLandK\TFLK_lab_1_\obj\Debug\TFLK_lab_1_.Form1.resources
+C:\Users\Madius\source\repos\SP\TFLandK\TFLK_lab_1_\obj\Debug\TFLK_lab_1_.Properties.Resources.resources
+C:\Users\Madius\source\repos\SP\TFLandK\TFLK_lab_1_\obj\Debug\TFLK_lab_1_.Resource1.resources
+C:\Users\Madius\source\repos\SP\TFLandK\TFLK_lab_1_\obj\Debug\TFLK_lab_1_.csproj.GenerateResource.cache
+C:\Users\Madius\source\repos\SP\TFLandK\TFLK_lab_1_\obj\Debug\TFLK_lab_1_.csproj.CoreCompileInputs.cache
+C:\Users\Madius\source\repos\SP\TFLandK\TFLK_lab_1_\obj\Debug\TFLK_lab_1_.exe
+C:\Users\Madius\source\repos\SP\TFLandK\TFLK_lab_1_\obj\Debug\TFLK_lab_1_.pdb
+C:\Users\Madius\source\repos\SP\TFLandK\TFLK_lab_1_\obj\Debug\TFLK_lab_1_.Form2.resources
+C:\Users\Madius\source\repos\SP\TFLandK\TFLK_lab_1_\obj\Debug\TFLK_lab_1_.Form3.resources
+C:\Users\User.DESKTOP-Q2FT676\Downloads\SP-master (2)\SP-master\TFLandK\TFLK_lab_1_\bin\Debug\TFLK_lab_1_.exe.config
+C:\Users\User.DESKTOP-Q2FT676\Downloads\SP-master (2)\SP-master\TFLandK\TFLK_lab_1_\bin\Debug\TFLK_lab_1_.exe
+C:\Users\User.DESKTOP-Q2FT676\Downloads\SP-master (2)\SP-master\TFLandK\TFLK_lab_1_\bin\Debug\TFLK_lab_1_.pdb
+C:\Users\User.DESKTOP-Q2FT676\Downloads\SP-master (2)\SP-master\TFLandK\TFLK_lab_1_\obj\Debug\TFLK_lab_1_.csprojAssemblyReference.cache
+C:\Users\User.DESKTOP-Q2FT676\Downloads\SP-master (2)\SP-master\TFLandK\TFLK_lab_1_\obj\Debug\TFLK_lab_1_.Form1.resources
+C:\Users\User.DESKTOP-Q2FT676\Downloads\SP-master (2)\SP-master\TFLandK\TFLK_lab_1_\obj\Debug\TFLK_lab_1_.Form2.resources
+C:\Users\User.DESKTOP-Q2FT676\Downloads\SP-master (2)\SP-master\TFLandK\TFLK_lab_1_\obj\Debug\TFLK_lab_1_.Form3.resources
+C:\Users\User.DESKTOP-Q2FT676\Downloads\SP-master (2)\SP-master\TFLandK\TFLK_lab_1_\obj\Debug\TFLK_lab_1_.Properties.Resources.resources
+C:\Users\User.DESKTOP-Q2FT676\Downloads\SP-master (2)\SP-master\TFLandK\TFLK_lab_1_\obj\Debug\TFLK_lab_1_.Resource1.resources
+C:\Users\User.DESKTOP-Q2FT676\Downloads\SP-master (2)\SP-master\TFLandK\TFLK_lab_1_\obj\Debug\TFLK_lab_1_.csproj.GenerateResource.cache
+C:\Users\User.DESKTOP-Q2FT676\Downloads\SP-master (2)\SP-master\TFLandK\TFLK_lab_1_\obj\Debug\TFLK_lab_1_.csproj.CoreCompileInputs.cache
+C:\Users\User.DESKTOP-Q2FT676\Downloads\SP-master (2)\SP-master\TFLandK\TFLK_lab_1_\obj\Debug\TFLK_lab_1_.exe
+C:\Users\User.DESKTOP-Q2FT676\Downloads\SP-master (2)\SP-master\TFLandK\TFLK_lab_1_\obj\Debug\TFLK_lab_1_.pdb
+C:\Users\Madius\source\repos\SP\TFLandK\TFLK_lab_1_\obj\Debug\TFLK_lab_1_.Form4.resources
+C:\Users\Madius\source\repos\SP\TFLandK\TFLK_lab_1_\obj\Debug\TFLK_lab_1_.Form5.resources
+C:\Users\Madius\source\repos\SP\TFLandK\TFLK_lab_1_\obj\Debug\TFLK_lab_1_.Form6.resources
+C:\Users\Madius\source\repos\SP\TFLandK\TFLK_lab_1_\obj\Debug\TFLK_lab_1_.Form7.resources
+C:\Users\Madius\source\repos\SP\TFLandK\TFLK_lab_1_\obj\Debug\TFLK_lab_1_.Form8.resources
+C:\Users\Дима\source\repos\SP\TFLandK\TFLK_lab_1_\bin\Debug\TFLK_lab_1_.exe.config
+C:\Users\Дима\source\repos\SP\TFLandK\TFLK_lab_1_\bin\Debug\TFLK_lab_1_.exe
+C:\Users\Дима\source\repos\SP\TFLandK\TFLK_lab_1_\bin\Debug\TFLK_lab_1_.pdb
+C:\Users\Дима\source\repos\SP\TFLandK\TFLK_lab_1_\obj\Debug\TFLK_lab_1_.csprojAssemblyReference.cache
+C:\Users\Дима\source\repos\SP\TFLandK\TFLK_lab_1_\obj\Debug\TFLK_lab_1_.Form1.resources
+C:\Users\Дима\source\repos\SP\TFLandK\TFLK_lab_1_\obj\Debug\TFLK_lab_1_.Form2.resources
+C:\Users\Дима\source\repos\SP\TFLandK\TFLK_lab_1_\obj\Debug\TFLK_lab_1_.Form3.resources
+C:\Users\Дима\source\repos\SP\TFLandK\TFLK_lab_1_\obj\Debug\TFLK_lab_1_.Form4.resources
+C:\Users\Дима\source\repos\SP\TFLandK\TFLK_lab_1_\obj\Debug\TFLK_lab_1_.Form5.resources
+C:\Users\Дима\source\repos\SP\TFLandK\TFLK_lab_1_\obj\Debug\TFLK_lab_1_.Form6.resources
+C:\Users\Дима\source\repos\SP\TFLandK\TFLK_lab_1_\obj\Debug\TFLK_lab_1_.Form7.resources
+C:\Users\Дима\source\repos\SP\TFLandK\TFLK_lab_1_\obj\Debug\TFLK_lab_1_.Form8.resources
+C:\Users\Дима\source\repos\SP\TFLandK\TFLK_lab_1_\obj\Debug\TFLK_lab_1_.Properties.Resources.resources
+C:\Users\Дима\source\repos\SP\TFLandK\TFLK_lab_1_\obj\Debug\TFLK_lab_1_.Resource1.resources
+C:\Users\Дима\source\repos\SP\TFLandK\TFLK_lab_1_\obj\Debug\TFLK_lab_1_.csproj.GenerateResource.cache
+C:\Users\Дима\source\repos\SP\TFLandK\TFLK_lab_1_\obj\Debug\TFLK_lab_1_.csproj.CoreCompileInputs.cache
+C:\Users\Дима\source\repos\SP\TFLandK\TFLK_lab_1_\obj\Debug\TFLK_lab_1_.exe
+C:\Users\Дима\source\repos\SP\TFLandK\TFLK_lab_1_\obj\Debug\TFLK_lab_1_.pdb
+C:\Users\Madius\source\repos\SP\TFLandK\TFLK_lab_1_\obj\Debug\TFLK_lab_1_.csprojAssemblyReference.cache
+C:\Users\Madius\source\repos\TFLandK\TFLK_lab_1_\bin\Debug\TFLK_lab_1_.exe.config
+C:\Users\Madius\source\repos\TFLandK\TFLK_lab_1_\bin\Debug\TFLK_lab_1_.exe
+C:\Users\Madius\source\repos\TFLandK\TFLK_lab_1_\bin\Debug\TFLK_lab_1_.pdb
+C:\Users\Madius\source\repos\TFLandK\TFLK_lab_1_\obj\Debug\TFLK_lab_1_.Form1.resources
+C:\Users\Madius\source\repos\TFLandK\TFLK_lab_1_\obj\Debug\TFLK_lab_1_.Form2.resources
+C:\Users\Madius\source\repos\TFLandK\TFLK_lab_1_\obj\Debug\TFLK_lab_1_.Form3.resources
+C:\Users\Madius\source\repos\TFLandK\TFLK_lab_1_\obj\Debug\TFLK_lab_1_.Form4.resources
+C:\Users\Madius\source\repos\TFLandK\TFLK_lab_1_\obj\Debug\TFLK_lab_1_.Form5.resources
+C:\Users\Madius\source\repos\TFLandK\TFLK_lab_1_\obj\Debug\TFLK_lab_1_.Form6.resources
+C:\Users\Madius\source\repos\TFLandK\TFLK_lab_1_\obj\Debug\TFLK_lab_1_.Form7.resources
+C:\Users\Madius\source\repos\TFLandK\TFLK_lab_1_\obj\Debug\TFLK_lab_1_.Form8.resources
+C:\Users\Madius\source\repos\TFLandK\TFLK_lab_1_\obj\Debug\TFLK_lab_1_.Properties.Resources.resources
+C:\Users\Madius\source\repos\TFLandK\TFLK_lab_1_\obj\Debug\TFLK_lab_1_.Resource1.resources
+C:\Users\Madius\source\repos\TFLandK\TFLK_lab_1_\obj\Debug\TFLK_lab_1_.csproj.GenerateResource.cache
+C:\Users\Madius\source\repos\TFLandK\TFLK_lab_1_\obj\Debug\TFLK_lab_1_.csproj.CoreCompileInputs.cache
+C:\Users\Madius\source\repos\TFLandK\TFLK_lab_1_\obj\Debug\TFLK_lab_1_.exe
+C:\Users\Madius\source\repos\TFLandK\TFLK_lab_1_\obj\Debug\TFLK_lab_1_.pdb
+C:\Users\Дима\source\repos\TFLK\TFLK_lab_1_\bin\Debug\TFLK_lab_1_.exe.config
+C:\Users\Дима\source\repos\TFLK\TFLK_lab_1_\bin\Debug\TFLK_lab_1_.exe
+C:\Users\Дима\source\repos\TFLK\TFLK_lab_1_\bin\Debug\TFLK_lab_1_.pdb
+C:\Users\Дима\source\repos\TFLK\TFLK_lab_1_\obj\Debug\TFLK_lab_1_.csprojAssemblyReference.cache
+C:\Users\Дима\source\repos\TFLK\TFLK_lab_1_\obj\Debug\TFLK_lab_1_.Form1.resources
+C:\Users\Дима\source\repos\TFLK\TFLK_lab_1_\obj\Debug\TFLK_lab_1_.Form2.resources
+C:\Users\Дима\source\repos\TFLK\TFLK_lab_1_\obj\Debug\TFLK_lab_1_.Form3.resources
+C:\Users\Дима\source\repos\TFLK\TFLK_lab_1_\obj\Debug\TFLK_lab_1_.Form4.resources
+C:\Users\Дима\source\repos\TFLK\TFLK_lab_1_\obj\Debug\TFLK_lab_1_.Form5.resources
+C:\Users\Дима\source\repos\TFLK\TFLK_lab_1_\obj\Debug\TFLK_lab_1_.Form6.resources
+C:\Users\Дима\source\repos\TFLK\TFLK_lab_1_\obj\Debug\TFLK_lab_1_.Form7.resources
+C:\Users\Дима\source\repos\TFLK\TFLK_lab_1_\obj\Debug\TFLK_lab_1_.Form8.resources
+C:\Users\Дима\source\repos\TFLK\TFLK_lab_1_\obj\Debug\TFLK_lab_1_.Properties.Resources.resources
+C:\Users\Дима\source\repos\TFLK\TFLK_lab_1_\obj\Debug\TFLK_lab_1_.Resource1.resources
+C:\Users\Дима\source\repos\TFLK\TFLK_lab_1_\obj\Debug\TFLK_lab_1_.csproj.GenerateResource.cache
+C:\Users\Дима\source\repos\TFLK\TFLK_lab_1_\obj\Debug\TFLK_lab_1_.csproj.CoreCompileInputs.cache
+C:\Users\Дима\source\repos\TFLK\TFLK_lab_1_\obj\Debug\TFLK_lab_1_.exe
+C:\Users\Дима\source\repos\TFLK\TFLK_lab_1_\obj\Debug\TFLK_lab_1_.pdb
+C:\Users\Madius\source\repos\TFLandK\TFLK_lab_1_\obj\Debug\TFLK_lab_1_.csprojAssemblyReference.cache

@@ -1,0 +1,20 @@
+C:\Users\User.DESKTOP-Q2FT676\source\repos\lab1_ML\lab1_ML\bin\Debug\lab1_ML.exe.config
+C:\Users\User.DESKTOP-Q2FT676\source\repos\lab1_ML\lab1_ML\bin\Debug\lab1_ML.exe
+C:\Users\User.DESKTOP-Q2FT676\source\repos\lab1_ML\lab1_ML\bin\Debug\lab1_ML.pdb
+C:\Users\User.DESKTOP-Q2FT676\source\repos\lab1_ML\lab1_ML\obj\Debug\lab1_ML.csprojAssemblyReference.cache
+C:\Users\User.DESKTOP-Q2FT676\source\repos\lab1_ML\lab1_ML\obj\Debug\lab1_ML.Form1.resources
+C:\Users\User.DESKTOP-Q2FT676\source\repos\lab1_ML\lab1_ML\obj\Debug\lab1_ML.Properties.Resources.resources
+C:\Users\User.DESKTOP-Q2FT676\source\repos\lab1_ML\lab1_ML\obj\Debug\lab1_ML.csproj.GenerateResource.cache
+C:\Users\User.DESKTOP-Q2FT676\source\repos\lab1_ML\lab1_ML\obj\Debug\lab1_ML.csproj.CoreCompileInputs.cache
+C:\Users\User.DESKTOP-Q2FT676\source\repos\lab1_ML\lab1_ML\obj\Debug\lab1_ML.exe
+C:\Users\User.DESKTOP-Q2FT676\source\repos\lab1_ML\lab1_ML\obj\Debug\lab1_ML.pdb
+C:\Users\Madius\source\repos\8 sem\МиКПО\lab1_ML\lab1_ML\obj\Debug\lab1_ML.csproj.AssemblyReference.cache
+C:\Users\Madius\source\repos\8 sem\МиКПО\lab1_ML\lab1_ML\obj\Debug\lab1_ML.Form1.resources
+C:\Users\Madius\source\repos\8 sem\МиКПО\lab1_ML\lab1_ML\obj\Debug\lab1_ML.Properties.Resources.resources
+C:\Users\Madius\source\repos\8 sem\МиКПО\lab1_ML\lab1_ML\obj\Debug\lab1_ML.csproj.GenerateResource.cache
+C:\Users\Madius\source\repos\8 sem\МиКПО\lab1_ML\lab1_ML\obj\Debug\lab1_ML.csproj.CoreCompileInputs.cache
+C:\Users\Madius\source\repos\8 sem\МиКПО\lab1_ML\lab1_ML\obj\Debug\lab1_ML.exe
+C:\Users\Madius\source\repos\8 sem\МиКПО\lab1_ML\lab1_ML\obj\Debug\lab1_ML.pdb
+C:\Users\Madius\source\repos\8 sem\МиКПО\lab1_ML\lab1_ML\bin\Debug\lab1_ML.exe.config
+C:\Users\Madius\source\repos\8 sem\МиКПО\lab1_ML\lab1_ML\bin\Debug\lab1_ML.exe
+C:\Users\Madius\source\repos\8 sem\МиКПО\lab1_ML\lab1_ML\bin\Debug\lab1_ML.pdb

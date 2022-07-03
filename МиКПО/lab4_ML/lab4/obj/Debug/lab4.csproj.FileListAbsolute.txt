@@ -1,0 +1,20 @@
+C:\Users\User.DESKTOP-Q2FT676\source\repos\lab4\lab4\bin\Debug\lab4.exe.config
+C:\Users\User.DESKTOP-Q2FT676\source\repos\lab4\lab4\bin\Debug\lab4.exe
+C:\Users\User.DESKTOP-Q2FT676\source\repos\lab4\lab4\bin\Debug\lab4.pdb
+C:\Users\User.DESKTOP-Q2FT676\source\repos\lab4\lab4\obj\Debug\lab4.csprojAssemblyReference.cache
+C:\Users\User.DESKTOP-Q2FT676\source\repos\lab4\lab4\obj\Debug\lab4.Form1.resources
+C:\Users\User.DESKTOP-Q2FT676\source\repos\lab4\lab4\obj\Debug\lab4.Properties.Resources.resources
+C:\Users\User.DESKTOP-Q2FT676\source\repos\lab4\lab4\obj\Debug\lab4.csproj.GenerateResource.cache
+C:\Users\User.DESKTOP-Q2FT676\source\repos\lab4\lab4\obj\Debug\lab4.csproj.CoreCompileInputs.cache
+C:\Users\User.DESKTOP-Q2FT676\source\repos\lab4\lab4\obj\Debug\lab4.exe
+C:\Users\User.DESKTOP-Q2FT676\source\repos\lab4\lab4\obj\Debug\lab4.pdb
+E:\Дима\8 сем\lab4\lab4\bin\Debug\lab4.exe.config
+E:\Дима\8 сем\lab4\lab4\bin\Debug\lab4.exe
+E:\Дима\8 сем\lab4\lab4\bin\Debug\lab4.pdb
+E:\Дима\8 сем\lab4\lab4\obj\Debug\lab4.csprojAssemblyReference.cache
+E:\Дима\8 сем\lab4\lab4\obj\Debug\lab4.Form1.resources
+E:\Дима\8 сем\lab4\lab4\obj\Debug\lab4.Properties.Resources.resources
+E:\Дима\8 сем\lab4\lab4\obj\Debug\lab4.csproj.GenerateResource.cache
+E:\Дима\8 сем\lab4\lab4\obj\Debug\lab4.csproj.CoreCompileInputs.cache
+E:\Дима\8 сем\lab4\lab4\obj\Debug\lab4.exe
+E:\Дима\8 сем\lab4\lab4\obj\Debug\lab4.pdb

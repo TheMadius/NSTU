@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "YhWT7GHLlt3K9OioRJtXhdlARvDisaxd5Is2LdqEjYpJ9fyZB4eJtxWZs80TtQ3WbghiHJP1DV/j+jzK0OTd8A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Madius\\source\\repos\\Semester7\\ЗИ\\lab2_PI\\lab1_PI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Madius\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Madius\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+C:\Users\Madius\source\repos\Lab1Int\Lab1Int\bin\Debug\Lab1Int.exe.config
+C:\Users\Madius\source\repos\Lab1Int\Lab1Int\bin\Debug\Lab1Int.exe
+C:\Users\Madius\source\repos\Lab1Int\Lab1Int\bin\Debug\Lab1Int.pdb
+C:\Users\Madius\source\repos\Lab1Int\Lab1Int\obj\Debug\Lab1Int.csprojAssemblyReference.cache
+C:\Users\Madius\source\repos\Lab1Int\Lab1Int\obj\Debug\Lab1Int.Form1.resources
+C:\Users\Madius\source\repos\Lab1Int\Lab1Int\obj\Debug\Lab1Int.Properties.Resources.resources
+C:\Users\Madius\source\repos\Lab1Int\Lab1Int\obj\Debug\Lab1Int.csproj.GenerateResource.cache
+C:\Users\Madius\source\repos\Lab1Int\Lab1Int\obj\Debug\Lab1Int.csproj.CoreCompileInputs.cache
+C:\Users\Madius\source\repos\Lab1Int\Lab1Int\obj\Debug\Lab1Int.exe
+C:\Users\Madius\source\repos\Lab1Int\Lab1Int\obj\Debug\Lab1Int.pdb
